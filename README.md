@@ -13,7 +13,7 @@
 <li>The Response of the request invoked can be accessed using the response object <br> Example: <br> System.out.println(response.getResponseBody()); </li>
 </ol>
 
-Notes: <br>
+Notes:
 <li>For POST requests, we need to add the payload and header as below: <br>
 <hr>
         JSONObject requestPayload = new JSONObject(); <br/>
